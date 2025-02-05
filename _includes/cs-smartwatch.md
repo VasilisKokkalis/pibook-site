@@ -10,6 +10,7 @@
 ![Seiko_Data-2000,_The_First_Computer_Watch,_Circa_1983-1984,_LCD_Watch_with_Docking_Station_(8515983575)](https://github.com/user-attachments/assets/4a88928a-14b9-43b3-a232-104d04f3f801)
 
 [^1]
+
 <figure id="fig:smartwatch">
 {% include figure image_path="/images1/smartwatch.jpg" caption=""
 alt="smartwatch" %}
